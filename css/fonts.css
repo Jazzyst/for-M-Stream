@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "ProximaNova-Semibold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/proximanova-semibold/ProximaNova-Semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/proximanova-semibold/ProximaNova-Semibold.woff") format("woff"), url("../fonts/proximanova-semibold/ProximaNova-Semibold.ttf") format("truetype"); }
+@font-face {
+  font-family: "Violet";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Violet/Violet.eot?#iefix") format("embedded-opentype"), url("../fonts/Violet/Violet.woff") format("woff"), url("../fonts/Violet/Violet.ttf") format("truetype"); }
+@font-face {
+  font-family: "OpenSans";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/OpenSans/OpenSans.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans.woff") format("woff"), url("../fonts/OpenSans/OpenSans.ttf") format("truetype"); }
+@font-face {
+  font-family: "OpenSans-Semibold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/OpenSans-Semibold/OpenSans-Semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans-Semibold/OpenSans-Semibold.woff") format("woff"), url("../fonts/OpenSans-Semibold/OpenSans-Semibold.ttf") format("truetype"); }
+
+/*# sourceMappingURL=fonts.css.map */
